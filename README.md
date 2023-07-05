@@ -3,7 +3,7 @@
   
  <div align="center">
 
-   [dev-sojib.vercel.app](https://dev-sojib.vercel.app) / / [sajiburmunna087@gmail.com](mailto:sajiburmunna087@gmail.com)
+   [dev-sojib.vercel.app](https://dev-sojib.vercel.app) / [sajiburmunna087@gmail.com](mailto:sajiburmunna087@gmail.com)
 
 </div>
 
