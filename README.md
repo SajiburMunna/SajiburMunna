@@ -6,23 +6,28 @@
 ```ts
 const sojib = {
   role: "Frontend Software Engineer",
-  stack: ["React", "Next.js", "Javascript", "TypeScript", "Tailwind", "Shopify"],
-  tools: ["VSCode", "Figma", "Git", "Vercel"],
+  stack: {
+    frameworks: "React, Next.js, Shadcn, Shopify",
+    languages: "JavaScript, TypeScript",
+    styling: "Tailwind CSS",
+    data: "Redux, React Query, Zod, CVA",
+  },
+  tools: "VSCode, Figma, Git, Vercel, SEO, Vite, Webpack"
 };
+
 ```
 
 ---
 
+
 ### 🌟 Featured Works
 
-* **ReviewXpo** (Next.js, TypeScript, Tailwind): Dynamic review system with media upload & email features.
-  🔗 [Shopify App](https://apps.shopify.com/products-review-app)
+* [**ReviewXpo**](https://apps.shopify.com/products-review-app) — `Next.js`, `TypeScript`, `Tailwind`, `React Query`: Dynamic review system with media upload & email features.
 
-* **FinFunder** (Next.js,Tailwind, Zod, Stripe): Real-time charts and secure payments.
-  🔗 [CodeCanyon](https://codecanyon.net/item/finfunder-nextjs-user-dashboard-for-matrix-hyip-investments-with-crypto-trading/56507164)
+* [**FinFunder**](https://codecanyon.net/item/finfunder-nextjs-user-dashboard-for-matrix-hyip-investments-with-crypto-trading/56507164) — `Next.js`, `TypeScript`, `Tailwind CSS`, `Stripe`, `React Query`, `Zod`, `CVA`: Trading charts and secure payments.
 
-* **FundedNext** (Next.js, Material UI, Redux): Secure login & API integration with a clean UI.
-  🔗 [Live App](https://app.fundednext.com)
+* [**FundedNext**](https://app.fundednext.com) — `Next.js`, `Material UI`, `Redux`: Secure login & API integration with a clean UI.
+
 
 ---
 
