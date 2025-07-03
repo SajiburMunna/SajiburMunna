@@ -1,12 +1,42 @@
 
- ![36FAA3FE-B725-4926-8B38-BC2D367018C0_1_105_c](https://github.com/SajiburMunna/SajiburMunna/assets/77797499/8bac735c-3c41-4d42-8dd0-4714b2a5cf6d)
-  
- <div align="center">
+## Hi, I'm Sojib 👋 — Frontend Software Engineer
 
-   [dev-sojib.vercel.app](https://dev-sojib.vercel.app) / [sajiburmunna087@gmail.com](mailto:sajiburmunna087@gmail.com)
+**Building fast, accessible UIs with modern tech.**
 
-</div>
+```ts
+const sojib = {
+  role: "Frontend Software Engineer",
+  stack: ["React", "Next.js", "Javascript", "TypeScript", "Tailwind", "Shopify"],
+  tools: ["VSCode", "Figma", "Git", "Vercel"],
+};
+```
 
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  </p>
- 
- 
+---
+
+### 🌟 Featured Works
+
+* **ReviewXpo** (Next.js, TypeScript, Tailwind): Dynamic review system with media upload & email features.
+  🔗 [Shopify App](https://apps.shopify.com/products-review-app)
+
+* **FinFunder** (Next.js,Tailwind, Zod, Stripe): Real-time charts and secure payments.
+  🔗 [CodeCanyon](https://codecanyon.net/item/finfunder-nextjs-user-dashboard-for-matrix-hyip-investments-with-crypto-trading/56507164)
+
+* **FundedNext** (Next.js, Material UI, Redux): Secure login & API integration with a clean UI.
+  🔗 [Live App](https://app.fundednext.com)
+
+---
+
+### 📦 NPM Package: `react-responsive-iframe`
+
+* Automatically resizes iframes for responsiveness.
+* Lightweight & easy to integrate.
+
+🔗 [Install from npm](https://www.npmjs.com/package/react-responsive-iframe)
+
+---
+
+### 📬 Connect
+
+🌐 [Portfolio](https://dev-sojib.vercel.app) | 🧑‍💼 [LinkedIn](https://linkedin.com/in/sojibscript) | 💻 [GitHub](https://github.com/SajiburMunna)
+✉️ [Email](mailto:info.sojibhossen.me@gmail.com)
+
